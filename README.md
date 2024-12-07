@@ -2,12 +2,12 @@
 
 Este repositório contém um projeto desenvolvido no Power BI, com um dashboard que analisa dados de consumo de conteúdos e perfis de usuários. O objetivo é fornecer insights para melhorar o engajamento na plataforma e compreender padrões de uso. A proposta do projeto é simular uma empresa fictícia que vende cursos para estudantes de medicina.
 
-## 📂 Arquivos no Repositório
+## Arquivos no Repositório
 
 - **Base_P_Projeto.xlsx**: Planilha contendo os dados brutos sobre consumo de conteúdos e informações dos usuários.
 - **projeto_dados.pbix**: Arquivo do Power BI com o dashboard interativo, incluindo transformações e visualizações.
 
-## 🪯 Limpezas e Transformações dos Dados
+## Limpezas e Transformações dos Dados
 
 As seguintes ações foram realizadas para preparar os dados para análise:
 
@@ -42,7 +42,7 @@ As seguintes ações foram realizadas para preparar os dados para análise:
 - **Semestre Atual**: Concatenado com o símbolo º (exemplo: 5º).
 - Outras colunas calculadas foram criadas com base nos dados disponíveis para enriquecer as análises.
 
-## 🔁 Gráficos e Visualizações
+## Gráficos e Visualizações
 
 O dashboard foi dividido em duas páginas com as seguintes visualizações:
 
@@ -95,7 +95,7 @@ O dashboard foi dividido em duas páginas com as seguintes visualizações:
 - **Quantidade de Universidades (Cartão)**:
   - Total de universidades presentes na plataforma.
 
-## 📌 Insights Obtidos
+## Insights Obtidos
 
 Com base nos dados analisados, foram identificados os seguintes insights estratégicos:
 
@@ -110,14 +110,3 @@ Com base nos dados analisados, foram identificados os seguintes insights estrat�
 
 - **Motivação para Consumo de Quizzes**:
   - Estimular o consumo de conteúdos do tipo "quiz", que pode aumentar o aprendizado ativo.
-
-## 🚀 Como Executar
-
-1. Certifique-se de ter o Microsoft Power BI instalado.
-2. Faça o download dos arquivos deste repositório.
-3. Abra o arquivo `projeto_dados.pbix` no Power BI para explorar o dashboard interativo.
-
-## 🛠️ Ferramentas Utilizadas
-
-- **Microsoft Power BI**: Para desenvolvimento do dashboard e modelagem de dados.
-- **Excel**: Para visualização e manipulação inicial dos dados.
